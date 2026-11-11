@@ -35,3 +35,5 @@ footer{background:var(--dark);color:var(--accent);text-align:center;padding:1.5r
 .tombol:hover{background:var(--mid)}
 .strategi{max-width:62ch}
 .strategi h2{margin-top:2rem;font-size:1.4rem}
+.kotak{background:var(--light);border-left:6px solid var(--mid);padding:1.25rem 1.5rem;margin-top:1.5rem;border-radius:4px}
+.kotak h2{margin-top:0;font-size:1.3rem}
